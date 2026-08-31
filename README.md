@@ -73,13 +73,13 @@ src/main/java/com/project/chat/
 1. Clone the repository
 
 ```id="3bnmfd"
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/siddardha-007/chat-application-group.git
 ```
 
 2. Navigate to project folder
 
 ```id="3c3bhu"
-cd your-repo-name
+cd chat-application-group
 ```
 
 3. Run the application
